@@ -1,0 +1,17 @@
+#canvas-container {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 820px;
+  height: 610px;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
